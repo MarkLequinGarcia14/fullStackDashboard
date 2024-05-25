@@ -1,4 +1,4 @@
-# Dashboard UI using JAVASCRIPT (node)
+# Admin Dashboard UI using JAVASCRIPT (node)
 <b><h3>INSTRUCTION direct way:</h3>
 - Install IDE at nodejs.org
 - Download the zip codes
