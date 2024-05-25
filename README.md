@@ -18,6 +18,8 @@
 <b><h3>FILE FORMAT:</h3>
 - zip x64
 
+<b><h3>FILE oneDrive link:</h3>
+- https://ortigascaintasti-my.sharepoint.com/:f:/g/personal/garcia_181514_ortigas-cainta_sti_edu_ph/ErQTo1shYWVEsKs0Tqkr8YQBA_VLWARAl07da94bpi1Hcw?e=S2AXoc
 
 
 
