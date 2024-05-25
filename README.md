@@ -1,4 +1,4 @@
-# fullStack Dashboard
+# Dashboard
 <b><h3>INSTRUCTION:</h3>
 - Go to Nodejs.org (IDE)
 - Download the codes except node_modules
